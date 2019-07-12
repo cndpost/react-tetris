@@ -99,7 +99,7 @@ var devServer = {
   contentBase: './server',
   colors: true,
   historyApiFallback: false,
-  port: 8080, // defaults to "8080"
+  port: 8086, // defaults to "8086"
   hot: true, // Hot Module Replacement
   inline: true, // Livereload
   host: '0.0.0.0',
